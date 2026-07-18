@@ -5,4 +5,3 @@ console.log("Welcome, " + name);
 
 
 
-// The javasricpt part one
