@@ -1,6 +1,5 @@
                   // The part one of java
 
-// Simple JavaScript Program
 
 let num1 = 10;
 let num2 = 20;
