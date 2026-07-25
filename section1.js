@@ -71,4 +71,21 @@ alert("The new page")
       // 1 . Number date type
 
 
-      
+// let pi=3.14;
+// let prime=29;
+// console.log(pi,prime);
+// console.log(typeof pi)
+
+
+// Special number value
+
+
+// let infi=Infinity;
+// let neginfi=-Infinity;
+// let temp=NaN;
+// temp=NaN+3;
+// temp=NaN**0;
+// console.log(infi, neginfi);
+// console.log(temp)
+// console.log(typeof infi)
+// console.log(1/0)
