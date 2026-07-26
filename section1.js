@@ -64,6 +64,7 @@ alert("The new page")
 
              /* There are 8 type of date type
                    - number date type
+                   -big int
              */
 
 
