@@ -37,3 +37,33 @@
 // let name="Ritik rahul";
 // let embedd=`My name is ${name}`;
 // console.log(embedd)
+
+
+
+
+        // 4.    boolean data type
+
+
+
+// let condition=1<3;
+// console.log(condition)
+
+
+
+
+        // 5.    null value
+
+
+
+
+// let aura=null;
+// console.log(aura)
+
+
+
+         // 6. undefined value
+
+
+
+// let DOB;
+// console.log(DOB);
