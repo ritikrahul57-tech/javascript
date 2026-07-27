@@ -69,6 +69,8 @@ alert("The new page")
                    -boolean value
                    -null value
                    -undefined value
+                   -object and symbol
+                   -dyamaic typed language
              */
 
 

@@ -67,3 +67,20 @@
 
 // let DOB;
 // console.log(DOB);
+
+
+
+        // 7. object and symbol
+                //  (we will learn in the furture)
+
+
+
+        // 8. dyamaic type language
+
+
+
+// let myname="ritik";
+// myname="Rahul"
+// console.log(typeof myname)
+// myname=67;
+// console.log(typeof myname)
