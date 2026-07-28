@@ -1,4 +1,6 @@
                 // Part 3 of javascript
 
 
-alert("I have a message for you")
+let fahh;
+fahh="hello"
+console.log(fahh)
