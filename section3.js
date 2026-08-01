@@ -2,14 +2,6 @@
 
 
 
-let name;
-name="My name is rahul"
-console.log(name)
-
 let input;
-input=alert("You have enter to a new page")
+input="hello world"
 console.log(input)
-
-let ouput;
-output=prompt("can pls enter your age plsss")
-console.log(output)
