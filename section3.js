@@ -4,4 +4,3 @@
 
 let input;
 input="hello world"
-console.log(input)
