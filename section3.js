@@ -79,14 +79,75 @@
 
 
 
-        //   Type of operands
-                    /* -unary
-                       -
-                    *\
+        // //   Type of operands
+        //              -unary
+        //              -binary
+        //              -string operator
+        //              -modified in place
+        //              -assgiment operator
+        //              -increment / decrement
+                    
 
 
 
 // 1.  unary
 
+                
+// let x=1
+// x=-x;
+// console.log(x)
 
- 
+
+//2.   binary    +,-,/,*,%,**
+
+
+
+// let a=6,b=8
+// let sum=a+b
+// console.log(sum) 
+
+
+// 3. string contanision
+
+
+
+// let a='hi'
+// let b='hello'
+// let sum= +a + +b
+// console.log(sum)
+
+
+// 4. assigment operator
+
+
+
+// let a=b=c=11
+// console.log(a,b,c)
+
+
+// 5. modfied in place
+
+
+
+// let x=8;
+// x +=5
+// console.log(x)
+
+
+// 6. incrment / decrement
+
+
+
+// let a=12;
+// a++;
+// console.log(a)
+
+
+// let a=7;
+// console.log(a--);
+// console.log(a)
+
+
+
+
+nknnnnn
