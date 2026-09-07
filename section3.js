@@ -142,3 +142,11 @@
 // a++;
 // console.log(a)
 
+
+
+// let a=7;
+// console.log(a--);
+// console.log(a)
+
+
+console.log("my name is zoro")
