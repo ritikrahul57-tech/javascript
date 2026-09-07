@@ -149,3 +149,18 @@
 // console.log(a)
 
 
+//                <  and  >
+
+
+// let a=9;
+// let b=6;
+// let result=a>b;
+// console.log(typeof result)
+
+
+// let a=9;
+// let b=9;
+// let result=a>=b;
+// console.log(result)
+
+
