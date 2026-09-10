@@ -76,4 +76,19 @@
 // console.log(undefined == 0);
 
 
- kjkhh
+// let isAdult;
+// let age=19;
+// if (age>18){
+//     isAdult=true;
+// }
+// console.log(isAdult)
+
+
+
+
+// let isAdult;
+// let age=19;
+// if (true){            //   This is called as a truthy statement
+//     isAdult=true;
+// }
+// console.log(isAdult)
