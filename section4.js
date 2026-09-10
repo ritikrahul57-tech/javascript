@@ -47,4 +47,33 @@
 
  
 
-cosole.log("hello world")
+// let a='0';
+// a=Boolean(a);
+// let b=0;
+// b=Boolean(b);
+// console.log(a==b)
+// console.log('0'==0) 
+// console.log('0'===0)
+
+
+
+//                  null and undefiend
+
+
+
+// console.log(null==undefined)   TRUE
+
+
+// console.log(null > 0);
+// console.log(null <= 0);
+// console.log(null < 0);
+// console.log(null == 0);
+
+
+// console.log(undefined > 0);
+// console.log(undefined <= 0);
+// console.log(undefined < 0);
+// console.log(undefined == 0);
+
+
+ 
