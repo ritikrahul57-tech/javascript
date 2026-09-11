@@ -92,3 +92,6 @@
 //     isAdult=true;
 // }
 // console.log(isAdult)
+
+
+console.log("hello")
