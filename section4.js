@@ -94,3 +94,4 @@
 // console.log(isAdult)
 
 
+console.log("hi hello")
