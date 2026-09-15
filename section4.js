@@ -94,3 +94,53 @@
 // console.log(isAdult)
 
 
+// let isAdult=false;
+// let age=10;
+// if(false){
+//     isAdult=true    This will cannot be possible
+// }
+// console.log(isAdult)
+
+
+
+// let isAdult;
+// let age=19;
+// if (age>18){            
+//     isAdult=true;
+// }
+// else{
+//     isAdult=false;
+// }
+// console.log(isAdult)
+ 
+
+
+// let person;
+// let age=19;
+// if (age>18){            
+//     person='adult';
+// }
+// else if(age>12){
+//     person='tennager'
+// }
+// else{
+//     person='child';
+// }
+// console.log(person)
+  
+
+
+// let person;
+// let age=19;
+// if (age>18){            
+//     person='adult';
+// }
+// else if(age>12){
+//     person='tennager'
+// }
+// else{
+//     person='child';
+// }
+// person='student'
+// console.log(person)
+   
