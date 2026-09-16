@@ -72,5 +72,42 @@
 // }
 
 
+// let x=89;
+// if(x%2==0){
+//     console.log('even number');
+// }
+// else{
+//     console.log('odd number');
+// }
 
 
+
+//                       logical operator
+
+//THERE ARE FOUR LOGICAL OPERATOR
+//1.-OR, 2.-AND, 3.-NOT, 4.-NULL COALESCING OPERATOR
+
+
+// TURTH TABLE FOR OR OPERATOR
+//     A     B    A || B
+//=============================
+//     true  true   true   
+//     true  false  true
+//     false true   true
+//     false false  false
+
+
+//TURTH TABLE FOR AND OPERATOP
+//     A     B    A && B
+//=============================
+//     true  true   true   
+//     true  false  false
+//     false true   false
+//     false false  false
+
+
+//TURTH TABLE FOR NOT OPERATOR
+//     A     !A
+//=============================
+//     true  false   
+//     false true
