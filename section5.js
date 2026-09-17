@@ -113,7 +113,7 @@
 //     false true
 
 
-j
+
 console.log(1 || 1);   or
 console.log(3 || 1);
 console.log(1 || 12);
