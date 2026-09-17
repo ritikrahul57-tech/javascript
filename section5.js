@@ -113,4 +113,16 @@
 //     false true
 
 
-console.log("hello")
+j
+console.log(1 || 1);   or
+console.log(3 || 1);
+console.log(1 || 12);
+
+console.log(1 && 1);   and
+console.log(21 && 1);
+console.log(0 && 21);
+console.log(21 && 0 && 21);
+
+
+console.log(!1);       not
+console.log(!0);
