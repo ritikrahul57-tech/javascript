@@ -114,15 +114,47 @@
 
 
 
-console.log(1 || 1);   or
-console.log(3 || 1);
-console.log(1 || 12);
+// console.log(1 || 1);   or
+// console.log(3 || 1);
+// console.log(1 || 12);
 
-console.log(1 && 1);   and
-console.log(21 && 1);
-console.log(0 && 21);
-console.log(21 && 0 && 21);
+// console.log(1 && 1);   and
+// console.log(21 && 1);
+// console.log(0 && 21);
+// console.log(21 && 0 && 21);
 
 
-console.log(!1);       not
-console.log(!0);
+// console.log(!1);       not
+// console.log(!0);
+
+
+//            example
+
+
+// let age=18;
+// let gender='f';
+// if(age>=18 && gender=='f'){
+//     console.log('eligble')
+// }
+
+
+
+// let age=18;
+// let gender='f';
+// if(age>=21 || (age>=18 && gender=='f')){
+//     console.log('eligble')
+// }
+// else{
+//     console.log('not eligble')
+// }
+
+
+      //  4. null COALESCING OPERATOR   ??
+
+
+
+// let age=null;
+// let current_age=age ?? 19;
+// console.log(current_age)
+
+// console.log(null || 0 || undefined)
