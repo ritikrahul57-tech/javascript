@@ -41,8 +41,3 @@
 
 
 //          example for loop
-
-
-// let n=5;
-// let ans=1
-// for(let i=1; )
