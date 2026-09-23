@@ -51,4 +51,3 @@
 // for(let i=1; )
 
 
-console.log("javascript is fun")
