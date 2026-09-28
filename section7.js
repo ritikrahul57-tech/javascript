@@ -112,3 +112,5 @@
 //     return 'hello'
 // }
 // console.log(typeof operation(2,4))
+
+console.log("hello")
