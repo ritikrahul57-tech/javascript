@@ -113,3 +113,35 @@
 // }
 // console.log(typeof operation(2,4))
 
+
+
+// let a=4, b=9;
+// function sum(a,b){
+//     let c=a+b
+//     return c;
+// }
+// console.log(typeof sum(2,3))
+
+
+// a=78;                        method 1
+// function oddeven(a){
+//     if(a%2==0){
+//         return 'even'
+//     }
+//     else{
+//         return 'odd'
+//     }
+// }
+// console.log(oddeven(a))
+
+
+
+// a=78;                            method 2
+// function oddeven(a){
+//     if(a%2==0){
+//         return 'even'
+//     }
+//         console.log('hello')
+//         return 'odd'
+// }
+// console.log(oddeven(a))
