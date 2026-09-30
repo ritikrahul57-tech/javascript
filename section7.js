@@ -145,3 +145,6 @@
 //         return 'odd'
 // }
 // console.log(oddeven(a))
+
+
+console.log('hello')
