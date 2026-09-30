@@ -143,7 +143,18 @@
 //     }
 //         console.log('hello')
 //         return 'odd'
+//         console.log('hello world')      this code is called as a unrecah able code
 // }
-// console.log(oddeven(a))
+// let oddoreven=oddeven;
+// console.log(oddoreven())
+
+
+
+// let a=7;
+// let oddoreven= (a) => a%2==0? 'even': 'odd';
+// console.log(oddoreven(3))
+//         the word function and => both are equal
+//         they are when you write a program in a single code
+
 
 
