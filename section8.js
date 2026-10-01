@@ -42,3 +42,8 @@
 // console.log(car.name)
 // console.log(car["pr ice"])
 
+
+
+let a;
+a=confirm("what is your name?")
+console.log(a)
