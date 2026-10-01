@@ -42,7 +42,3 @@
 // console.log(car.name)
 // console.log(car["pr ice"])
 
-
-let a;
-a=alert('welcome')
-console.log(a)
