@@ -39,4 +39,79 @@
 // }
 
 
+
 //                  set operator
+
+
+
+// let set= new Set();
+// console.log(typeof(set)) 
+
+
+
+// let set= new Set();
+// set.add('rahul')
+//     .add('ritik')
+//     .add('rahul')            there is no duplication in the set opertor only the unique opertor is requried
+//     .add(1)
+// console.log(set) 
+
+
+
+
+// let set= new Set();
+// set.add('rahul')
+//     .add('ritik')
+//     .add(2)
+// set.delete(2)
+// set.clear();
+// console.log(set)
+// console.log(set.has(2))         to check whether is here or not
+// console.log(set.size)
+
+
+
+
+// let set= new Set();
+// set.add('rahul')
+//     .add('ritik')
+//     .add(2)
+// console.log(set)
+// for( s of set){
+//     console.log(s)
+// }
+
+
+
+
+// let set = new Set();
+// set.add(9)
+//     .add(9)
+//     .add(7)
+//     .add(6)
+//     .add(9)
+//     .add(4)
+// console.log(set.size)
+
+
+
+
+//                      JSON
+//                          -javascript object notation   (very important)
+
+
+
+
+// let user ={
+//     name: 'rahul',
+//     age: 18,
+//     salary: 50000,
+// };
+// console.log(JSON.stringify(user));
+
+
+
+
+// let user ='{"name": "rahul", "age":18}'         to change this one into object
+// console.log(JSON.parse(user))
+// console.log(type(JSON.parse(user)))
