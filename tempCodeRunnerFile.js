@@ -1,14 +1,10 @@
 
-let person;
-let age=19;
-if (age>18){            
-    person='adult';
+
+let mat= [
+    [1,2,3],
+    [4,4,4],
+    [2,3,4]
+]
+for (let i=0; i<mat; length; i++){
+     console.log(mat[i])
 }
-else if(age>12){
-    person='tennager'
-}
-else{
-    person='child';
-}
-console.log(person)
- 

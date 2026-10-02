@@ -159,3 +159,32 @@
 
 // let apps= ['apple','banana','punkin']
 // console.log(apps.length)
+
+
+
+// //              two dimensioal array
+
+
+
+// let mat= [
+//     [1,2,3],
+//     [4,4,4],
+//     [2,3,4]
+// ]
+// console.log(mat)
+// console.log(mat[0][2])
+
+
+
+
+// let mat= [
+//     [1,2,3],
+//     [4,4,4],
+//     [2,3,4]
+// ]
+// for (let i=0; i<mat.length; i++){
+//         for(let j=0; j<mat[i].length; j++){
+//                 console.log(mat[i][j])
+
+//         }
+// }
