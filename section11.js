@@ -13,3 +13,7 @@
 // console.log(bday.getDay())
 // console.log(bday.getFullYear())
 // console.log(bday.getMonth())
+
+
+
+bday=alert('what is your date of birth')
