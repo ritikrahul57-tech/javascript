@@ -88,3 +88,74 @@
 // }                                                    
 // let ritik=new User();
 // console.log(ritik,age())
+
+
+
+
+//                              array
+
+
+
+
+// let app = new Array();                  method 1
+// app = ['apple','banana']
+// console.log(app)
+// console.log(typeof (app))
+
+
+
+
+// let app = []                  method 2
+// app = ['apple','banana']
+// console.log(app)
+// console.log(typeof (app))
+
+
+
+// let app = ['apple','banana'];                   method 3
+// console.log(app)
+
+
+
+// let app = ['apple','banana'];                  
+// console.log(app[0])
+// console.log(app[2])
+
+
+
+// let app = ['apple','banana',(name: 'rahul', age:34),'mango',null,undefined,23,funtion add(a,b){return a+b}];                  
+// console.log(app[5])
+//console.log(app[2].name)
+//console.log(app[7](1,3))
+
+
+
+// let app = ['apple','banana','mango']
+// // app[3]= 'furti'
+// // console.log(app[3])
+// app.push('watermelon')               by using this  object it is added at the end
+// app.unshift('watermelon')             by using this object it is added at the start
+// app.pop()                               the last object will be removed
+// console.log(app.shift())                     the first object will be removed
+// console.log(app)
+
+
+
+// let apps= ['apple','banana','punkin']                   the 'in'opertor is very slow when it is compared to the 'of'operator
+// for (app in apps){
+//         console.log(apps[app])
+//         console.log(app)
+// }
+
+
+
+
+// let apps= ['apple','banana','punkin']
+// for(let i=0; i<3; i++){
+//         console.log(apps[1])
+// }
+
+
+
+// let apps= ['apple','banana','punkin']
+// console.log(apps.length)
