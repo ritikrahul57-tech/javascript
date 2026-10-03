@@ -16,4 +16,23 @@
 
 
 
-bday=alert('what is your date of birth')
+//                  recursive function
+//                          -base case
+//                          -recursive call
+//                          -update statement
+
+
+//5=> 0+1+2+3+4+5 =15
+// function add(n){
+//     return n+add(n-1)
+// }
+
+
+
+function factorial(n){
+    if(n==0){
+        return 1
+    }
+    return n*factorial(n-1)
+} 
+console.log(factorial(5))
