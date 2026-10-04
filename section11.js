@@ -36,3 +36,9 @@
 //     return n*factorial(n-1)
 // } 
 // console.log(factorial(5))
+
+
+
+let a;
+a=alert("welcome to the page")
+console.log(a)
