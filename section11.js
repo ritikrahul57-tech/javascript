@@ -37,3 +37,6 @@
 // } 
 // console.log(factorial(5))
 
+let a;
+a=alert("welcome to the page")
+console.log(a)
