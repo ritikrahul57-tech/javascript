@@ -37,3 +37,8 @@
 // } 
 // console.log(factorial(5))
 
+
+
+let a;
+a=confirm('do you want to continue?')
+console.log(a)
