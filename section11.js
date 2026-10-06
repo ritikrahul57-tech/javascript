@@ -37,4 +37,3 @@
 // } 
 // console.log(factorial(5))
 
-console.log(add(5))
