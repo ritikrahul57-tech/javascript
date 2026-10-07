@@ -37,8 +37,3 @@
 // } 
 // console.log(factorial(5))
 
-
-let b;
-b=alert("you have a message")
-console.log(b)
-console.log("hello")
