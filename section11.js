@@ -39,6 +39,3 @@
 
 
 
-
-let a;
-a=alert("hello")
