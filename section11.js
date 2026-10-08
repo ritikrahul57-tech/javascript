@@ -42,4 +42,3 @@
 
 let a;
 a=alert("hello")
-cosonle.log(a)
