@@ -39,3 +39,6 @@
 
 
 
+let a;
+a=alert("welcome to the page")
+console.log(a)
