@@ -38,3 +38,9 @@
 // console.log(factorial(5))
 
 
+
+
+
+let a;
+a=alert("hello world")
+console.log(a)
