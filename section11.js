@@ -39,3 +39,8 @@
 
 
 
+
+
+let a;
+a=alert('hello')
+console.log(a)
