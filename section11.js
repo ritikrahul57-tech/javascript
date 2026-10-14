@@ -40,7 +40,12 @@
 
 
 
+//              class operator
 
-let a;
-a=alert('hello')
-console.log(a)
+
+
+
+let user= {
+    name: 'ritik',
+    age: 18
+};
