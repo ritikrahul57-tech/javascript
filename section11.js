@@ -44,8 +44,3 @@
 
 
 
-
-let user= {
-    name: 'ritik',
-    age: 18
-};
