@@ -42,11 +42,3 @@
 
 //              class operator
 
-
-
-
-let user= {
-    name: 'ritik',
-    age: 18
-};
-console.log(user.name)
