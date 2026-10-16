@@ -42,9 +42,3 @@
 
 //              class operator
 
-
-
-
-let b;
-b=comfirm("Are you sure you want to delete this file?");
-console.log(b)
