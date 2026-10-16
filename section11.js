@@ -43,6 +43,3 @@
 //              class operator
 
 
-
-let a=9, b=8;   
-console.log(a+b)
