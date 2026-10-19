@@ -42,7 +42,3 @@
 
 //              class operator
 
-
-let x;
-x=prompt("welcome to class operator")
-console.log(x)
