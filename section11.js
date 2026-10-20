@@ -43,3 +43,12 @@
 //              class operator
 
 
+let person;
+let age=19;
+if(age>18) {
+    console.log('You are an adult')
+}
+else{
+    console.log('you are not an adult')
+}
+console.log(age)
