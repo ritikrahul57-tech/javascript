@@ -48,6 +48,9 @@ let age=19;
 if(age>18) {
     console.log('You are an adult')
 }
+else if(age==18){
+    console.log('You are just an adult')
+}
 else{
     console.log('you are not an adult')
 }
