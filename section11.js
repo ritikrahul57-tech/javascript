@@ -42,3 +42,8 @@
 
 //              class operator
 
+let x;
+x = 10;
+if(x>0){
+    console.log('positive')
+}
