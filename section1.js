@@ -20,12 +20,13 @@ alert("The new page")
 
 
 // let booknumber="1156";
-// let bookdate="july 5th"
+// // let bookdate="july 5th"
+
 
 // let  booknumber="1156"; bookdate="july 5th";
 // bookdate="march 8th";
 // bookname=booknumber;
-// console.log(bookname, booknumber, "\t", bookdate);
+// console.log(bookname, booknumber, "\n", bookdate);
 
 /* 
          Rules to name a variable
@@ -49,7 +50,7 @@ alert("The new page")
 // const PASS="ritikrahul001";
 // const WHITE_COLOR="#fff";
 // const BLACK_COLOR="#000";
-// console.log(GMAIL,PASS);
+// console.log(GMAIL,PASS); 
 
 
 // const DATE_OF_BIRTH="5/7/2008";
