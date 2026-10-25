@@ -42,3 +42,8 @@
 
 //              class operator
 
+
+
+let a = 10;
+class A{
+    constructor(){
