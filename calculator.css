@@ -1,0 +1,57 @@
+ body {
+     background-image: url(image/download.jpg);
+     background-size: cover;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: Arial, sans-serif;
+      padding: 100px;
+ }
+
+ .head{
+     margin-top: 10px;
+     text-align: center;
+ }
+
+ .hero {
+      background-image: url(image/paper2.jpg);
+      padding: 10px;
+      border-radius: 30px;
+      width: 280px;
+ }
+
+.main {
+     width: 280px;
+     height: 60px;
+     background-color: whitesmoke;
+     border-radius: 8px;
+     margin-bottom: 20px;
+     font-size: 25px;
+     text-align: right;
+     box-sizing: border-box;
+     padding: 10px;
+}
+
+.button {
+     display: grid;
+     grid-template-columns: repeat(4, 1fr);
+     gap: 10px;
+ }
+
+button {
+     height: 55px;
+     font-size: 20px;
+     border-radius: 25px;
+     border: 2px solid black;
+     background-color: whitesmoke;
+     color: rgb(6, 0, 0);
+}
+
+
+ .equal {
+     background-color: orange;
+ }
+
+ .equal:hover {
+     background-color: chartreuse;
+ }
