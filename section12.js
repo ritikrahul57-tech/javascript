@@ -1,3 +1,3 @@
 let a;
 a=23
-console
+console.log(a)
