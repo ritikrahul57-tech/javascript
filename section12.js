@@ -1,2 +1,3 @@
 let a;
-a
+a=23
+console
