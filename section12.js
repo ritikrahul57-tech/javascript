@@ -1,2 +1,3 @@
 let b;
-b=confirm
+b=confirm("hello world")
+console.log(b)
