@@ -8,3 +8,4 @@ else
 {
     console.log("it is shoter number")
 }
+console.log(a)
