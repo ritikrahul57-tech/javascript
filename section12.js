@@ -1,3 +1,9 @@
 let x;
-x="hello world"
-console.log(x)
+x=9
+if (x<7);
+{
+    console.log("noo")
+}
+else{
+    console.log("yes")
+}
