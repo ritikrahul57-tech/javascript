@@ -1,4 +1,1 @@
-let a;
-a=89
-console.log(a)
-alert("you have a message")
+confirm("you are not a robot")
