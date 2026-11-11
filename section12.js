@@ -1,1 +1,0 @@
-confirm("you are not a robot")
