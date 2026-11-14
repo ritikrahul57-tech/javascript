@@ -1,3 +1,3 @@
-let a;
-a="hii boo"
-console.log(a)
+let x;
+x=9
+console.log(x)
