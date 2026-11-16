@@ -1,2 +1,3 @@
-let a=65
-console.log(a)
+let a;
+a=6
+if (a)
