@@ -1,3 +1,3 @@
-let a=1;
-Boolean=true
-console.log(boolean)
+let w;
+w=true
+console.log(typeof(w))
