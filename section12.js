@@ -1,3 +1,3 @@
-let x;
-x="hello world"
-console.log(x)
+let d;
+d=true
+console.log(Boolean(d))
