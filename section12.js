@@ -1,3 +1,3 @@
-let a;
-a=87
-console.log(a)
+let x;
+x="hello world"
+console.log(x)
