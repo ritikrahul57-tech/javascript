@@ -1,2 +1,3 @@
-let a="hello world"
-console.log(a)
+let x;
+x=87
+console.log(typeof(x))
